@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\bin\Debug\netcoreapp3.1\Lect5.Greating.exe
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\bin\Debug\netcoreapp3.1\Lect5.Greating.deps.json
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\bin\Debug\netcoreapp3.1\Lect5.Greating.runtimeconfig.json
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\bin\Debug\netcoreapp3.1\Lect5.Greating.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\bin\Debug\netcoreapp3.1\Lect5.Greating.dll
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\bin\Debug\netcoreapp3.1\Lect5.Greating.pdb
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\obj\Debug\netcoreapp3.1\Lect5.Greating.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\obj\Debug\netcoreapp3.1\Lect5.Greating.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\obj\Debug\netcoreapp3.1\Lect5.Greating.AssemblyInfo.cs
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\obj\Debug\netcoreapp3.1\Lect5.Greating.dll
+C:\Users\User\source\repos\Lect5.Greating\Lect5.Greating\obj\Debug\netcoreapp3.1\Lect5.Greating.pdb
