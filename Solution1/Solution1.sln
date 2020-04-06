@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lect5_LetterA", "Lect5_LetterA\Lect5_LetterA.csproj", "{64DDD77C-00FE-4CC2-BB0F-459751FEF7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lect5_Greating", "Lect5_Greating\Lect5_Greating.csproj", "{27F09BB9-DF5F-4E79-8480-7B8F4A9EB15D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DDD77C-00FE-4CC2-BB0F-459751FEF7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DDD77C-00FE-4CC2-BB0F-459751FEF7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DDD77C-00FE-4CC2-BB0F-459751FEF7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DDD77C-00FE-4CC2-BB0F-459751FEF7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F09BB9-DF5F-4E79-8480-7B8F4A9EB15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F09BB9-DF5F-4E79-8480-7B8F4A9EB15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F09BB9-DF5F-4E79-8480-7B8F4A9EB15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F09BB9-DF5F-4E79-8480-7B8F4A9EB15D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A462EC3A-8786-445A-AF46-8D4A4C4E836C}
+	EndGlobalSection
+EndGlobal
