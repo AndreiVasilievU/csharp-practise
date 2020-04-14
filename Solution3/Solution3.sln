@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lect_11_Shapes", "Lect_11_Shapes\Lect_11_Shapes.csproj", "{22255F9F-5B6D-4E36-A865-D4F89F511979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22255F9F-5B6D-4E36-A865-D4F89F511979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22255F9F-5B6D-4E36-A865-D4F89F511979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22255F9F-5B6D-4E36-A865-D4F89F511979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22255F9F-5B6D-4E36-A865-D4F89F511979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5EF8917-9E4D-48FB-A6B0-AA69DA5D7768}
+	EndGlobalSection
+EndGlobal
